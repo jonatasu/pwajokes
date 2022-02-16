@@ -1,4 +1,12 @@
-# Pwajokes
+# Jokes Slot Machine
+
+Hi guys, I'm doing this little side-project just for fun.
+
+I used this this video as my guide >>> [Build your First Angular PWA from Scratch (Angular 6 PWA Tutorial)](https://www.youtube.com/watch?v=othhfZ0mGjU)
+
+If you liked this project, please give it a Star, thanks!
+
+## About the core of the project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
