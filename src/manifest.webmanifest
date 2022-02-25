@@ -1,6 +1,6 @@
 {
-  "name": "pwajokes",
-  "short_name": "pwajokes",
+  "name": "Jokes Slot Machine",
+  "short_name": "jokes",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
